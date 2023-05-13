@@ -1,0 +1,114 @@
+.h1img{
+    padding: 9.81962%;
+    background-color: rgb(2, 2, 2);
+    color: #fff;;
+}
+.Qimage{
+    display: flex;
+    float: right;   
+}
+.biocontainer{
+    text-align: center;
+    margin: 2px 300px 45px 300px;
+    padding: 5%;
+    
+}
+.contribution{
+   margin: 5% 25% 5% 25%;
+} 
+body{
+    margin:0;
+    height:100%;
+    text-align: center;
+    font-family: 'Merriweather', serif;
+    
+}
+.skill-row{
+    width: 50%;
+    margin: 60px auto 60px auto;
+    text-align: left;  
+}
+
+p{
+    line-height: 2;
+}
+h3{
+    margin-left: 25%;
+}
+
+.containerslide{
+    height: 80%;
+    width: 50%;
+    margin:0% 25% 5% 25%;
+}
+.awards{
+    margin: 0% 20% 2% 20%;
+    border: 2px solid rgb(64, 8, 8);
+    border-radius: 4%;
+}
+.footer1 {
+    background-color: cadetblue;
+    color: white;
+  }
+  /* .footer1 ul li a:hover {
+    color: white;
+    text-decoration: underline;
+  } */
+  .tag a:hover {
+    color: white !important;
+  }
+  
+  
+.family{
+    margin-left: 40%;
+    padding: 1%;
+}
+.chilli{
+    width: 50%;
+    margin: 60px auto 60px auto;
+    text-align: left;
+    line-height: 2;
+}
+.Qskills{
+    display:inline-block;
+    text-align: center;
+    margin:0 10% 0 10%;
+}
+.skills{
+    padding: 5% ;
+
+}
+.skill{
+    float: left;
+    margin-right: 30px;
+}
+.chilli-img{
+    float: right;
+    margin-left: 30px;
+}
+.contact-me{
+    margin-top: 100px;
+    margin-bottom: 100px;
+}
+.middle-container{
+    margin-top: 160px;
+}
+.bottom-container{
+    background-color: #66BFBF;
+    padding: 20px 0px 10px 0px;
+} 
+
+.heading{
+    display:flex;
+}
+.components{
+    display:inline-block;
+    width:50%;
+}
+.components h1{
+    height:100%;
+}
+.components img{
+    width:100%;
+}
+  
